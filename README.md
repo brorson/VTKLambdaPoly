@@ -15,6 +15,8 @@ I poked at this program and after some work it now
 works fine.  I also implemented a feature where the program shows
 where the lambda poly's roots are.  The roots are colored black.  
 
+![Lambda poly for N=8](LambdaPolyN8.png "Lambda poly for N=8")
+
 To build:  
 
 cmake -S . -B build  
